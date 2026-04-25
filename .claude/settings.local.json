@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//e/Usuario/Desktop/dev/landing_realstate/**)",
+      "Bash(cp \"E:/Usuario/Desktop/dev/landing_realstate/img/Gemini_Generated_Image_evanaoevanaoevan.png\" \"E:/Usuario/Desktop/dev/landing_realstate/Viso_Atelier_FinishedWeb/public/assets/images/tower_aerial.png\")",
+      "Bash(cp \"E:/Usuario/Desktop/dev/landing_realstate/img/Gemini_Generated_Image_hwvixhhwvixhhwvi.png\" \"E:/Usuario/Desktop/dev/landing_realstate/Viso_Atelier_FinishedWeb/public/assets/images/tower_facade.png\")",
+      "Bash(cp \"E:/Usuario/Desktop/dev/landing_realstate/img/Gemini_Generated_Image_ip9cjjip9cjjip9c.png\" \"E:/Usuario/Desktop/dev/landing_realstate/Viso_Atelier_FinishedWeb/public/assets/images/tower_night.png\")",
+      "Bash(cp \"E:/Usuario/Desktop/dev/landing_realstate/img/Gemini_Generated_Image_o9wqqwo9wqqwo9wq.png\" \"E:/Usuario/Desktop/dev/landing_realstate/Viso_Atelier_FinishedWeb/public/assets/images/tower_dawn.png\")",
+      "Bash(cp \"E:/Usuario/Desktop/dev/landing_realstate/img/Gemini_Generated_Image_she24pshe24pshe2.png\" \"E:/Usuario/Desktop/dev/landing_realstate/Viso_Atelier_FinishedWeb/public/assets/images/tower_sketch.png\")"
+    ]
+  }
+}
